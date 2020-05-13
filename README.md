@@ -6,8 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos.
 
-##test1
+## test1
+hi hello
 
-##test2
+## test2
 
-##test3
+## test3
